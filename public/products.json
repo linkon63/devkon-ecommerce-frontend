@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1",
+    "name": "Gold Ring",
+    "sku": "JR1100001",
+    "original_price": 2600,
+    "discount_rate": 50,
+    "production_cost": 1700,
+    "tax_rate": 5,
+    "cover_image": {
+      "key": "free-vector/golden-wedding-rings-3d-realistic-illustration-engagement_33099-519.jpg?t=st=1740377358~exp=1740380958~hmac=da5d5e4b7ecad9442ce43177c29703d27aee344f2b07f1f559893a78b4b9918b&w=740",
+      "url": "assets/products/p1.png"
+    },
+    "product_images": [
+      {
+        "key": "free-vector/golden-wedding-rings-3d-realistic-illustration-engagement_33099-519.jpg?t=st=1740377358~exp=1740380958~hmac=da5d5e4b7ecad9442ce43177c29703d27aee344f2b07f1f559893a78b4b9918b&w=740",
+        "url": "https://img.freepik.com/free-vector/golden-wedding-rings-3d-realistic-illustration-engagement_33099-519.jpg?t=st=1740377358~exp=1740380958~hmac=da5d5e4b7ecad9442ce43177c29703d27aee344f2b07f1f559893a78b4b9918b&w=740"
+      },
+      {
+        "key": "free-vector/golden-wedding-rings-3d-realistic-illustration-engagement_33099-519.jpg?t=st=1740377358~exp=1740380958~hmac=da5d5e4b7ecad9442ce43177c29703d27aee344f2b07f1f559893a78b4b9918b&w=740",
+        "url": "https://img.freepik.com/free-vector/golden-wedding-rings-3d-realistic-illustration-engagement_33099-519.jpg?t=st=1740377358~exp=1740380958~hmac=da5d5e4b7ecad9442ce43177c29703d27aee344f2b07f1f559893a78b4b9918b&w=740"
+      }
+    ],
+    "color": "Gold",
+    "summary": "White business formal shirt in premium-quality Jacquard Cotton fabric. Designed with a classic collar and long-sleeved with adjustable buttons at cuffs. Slim fit.",
+    "contents": "Smartphones, in particular, have transformed communication and information sharing. With powerful processors, high-quality cameras, and a myriad of apps, smartphones offer much more than just making calls. They have become our go-to devices for social media, online shopping, work, and even education. Whether it’s a flagship model from a renowned brand or a budget-friendly option, everyone has a device that suits their needs."
+  },
+  {
+    "id": "2",
+    "name": "Leather Wallet",
+    "sku": "JR1100001",
+    "original_price": 1500,
+    "discount_rate": 30,
+    "production_cost": 900,
+    "tax_rate": 5,
+    "cover_image": {
+      "key": "free-vector/realistic-leather-wallet-illustration_1234567.jpg",
+      "url": "assets/products/p2.png"
+    },
+    "product_images": [
+      {
+        "key": "free-vector/realistic-leather-wallet-illustration_1234567.jpg",
+        "url": "https://img.freepik.com/free-vector/realistic-leather-wallet-illustration_1234567.jpg"
+      },
+      {
+        "key": "free-vector/realistic-leather-wallet-illustration_1234567.jpg",
+        "url": "https://img.freepik.com/free-vector/realistic-leather-wallet-illustration_1234567.jpg"
+      }
+    ],
+    "color": "Brown",
+    "summary": "Stylish leather wallet made from premium leather with multiple compartments for cards and cash. Ideal for daily use.",
+    "contents": "Smartphones, in particular, have transformed communication and information sharing. With powerful processors, high-quality cameras, and a myriad of apps, smartphones offer much more than just making calls. They have become our go-to devices for social media, online shopping, work, and even education. Whether it’s a flagship model from a renowned brand or a budget-friendly option, everyone has a device that suits their needs."
+  },
+  {
+    "id": "3",
+    "name": "Classic Sunglasses",
+    "sku": "JR1100001",
+    "original_price": 1200,
+    "discount_rate": 20,
+    "production_cost": 800,
+    "tax_rate": 5,
+    "cover_image": {
+      "key": "free-vector/sunglasses-illustration_67890.jpg",
+      "url": "assets/products/p3.png"
+    },
+    "product_images": [
+      {
+        "key": "free-vector/sunglasses-illustration_67890.jpg",
+        "url": "assets/products/p3.png"
+      },
+      {
+        "key": "free-vector/sunglasses-illustration_67890.jpg",
+        "url": "https://img.freepik.com/free-vector/sunglasses-illustration_67890.jpg"
+      }
+    ],
+    "color": "Black",
+    "summary": "Classic sunglasses with UV protection and a sleek, modern design. Suitable for any outdoor activity.",
+    "contents": "Smartphones, in particular, have transformed communication and information sharing. With powerful processors, high-quality cameras, and a myriad of apps, smartphones offer much more than just making calls. They have become our go-to devices for social media, online shopping, work, and even education. Whether it’s a flagship model from a renowned brand or a budget-friendly option, everyone has a device that suits their needs."
+  },
+  {
+    "id": "4",
+    "name": "Wireless Headphones",
+    "sku": "JR1100001",
+    "original_price": 3000,
+    "discount_rate": 15,
+    "production_cost": 1800,
+    "tax_rate": 5,
+    "cover_image": {
+      "key": "free-vector/wireless-headphones-illustration_98765.jpg",
+      "url": "assets/products/p1.png"
+    },
+    "product_images": [
+      {
+        "key": "free-vector/wireless-headphones-illustration_98765.jpg",
+        "url": "https://img.freepik.com/free-vector/wireless-headphones-illustration_98765.jpg"
+      },
+      {
+        "key": "free-vector/wireless-headphones-illustration_98765.jpg",
+        "url": "https://img.freepik.com/free-vector/wireless-headphones-illustration_98765.jpg"
+      }
+    ],
+    "color": "Silver",
+    "summary": "Premium quality wireless headphones with noise-canceling features and long-lasting battery life.",
+    "contents": "Smartphones, in particular, have transformed communication and information sharing. With powerful processors, high-quality cameras, and a myriad of apps, smartphones offer much more than just making calls. They have become our go-to devices for social media, online shopping, work, and even education. Whether it’s a flagship model from a renowned brand or a budget-friendly option, everyone has a device that suits their needs."
+  },
+  {
+    "id": "5",
+    "name": "Smart Watch",
+    "sku": "JR1100001",
+    "original_price": 4500,
+    "discount_rate": 10,
+    "production_cost": 2500,
+    "tax_rate": 5,
+    "cover_image": {
+      "key": "free-vector/smartwatch-illustration_112233.jpg",
+      "url": "assets/products/p2.png"
+    },
+    "product_images": [
+      {
+        "key": "free-vector/smartwatch-illustration_112233.jpg",
+        "url": "https://img.freepik.com/free-vector/smartwatch-illustration_112233.jpg"
+      },
+      {
+        "key": "free-vector/smartwatch-illustration_112233.jpg",
+        "url": "https://img.freepik.com/free-vector/smartwatch-illustration_112233.jpg"
+      }
+    ],
+    "color": "Black",
+    "summary": "A stylish smart watch with fitness tracking, heart rate monitoring, and notifications synced with your phone.",
+    "contents": "Smartphones, in particular, have transformed communication and information sharing. With powerful processors, high-quality cameras, and a myriad of apps, smartphones offer much more than just making calls. They have become our go-to devices for social media, online shopping, work, and even education. Whether it’s a flagship model from a renowned brand or a budget-friendly option, everyone has a device that suits their needs."
+  },
+  {
+    "id": "6",
+    "name": "Bluetooth Speaker",
+    "sku": "JR1100001",
+    "original_price": 2200,
+    "discount_rate": 25,
+    "production_cost": 1500,
+    "tax_rate": 5,
+    "cover_image": {
+      "key": "free-vector/bluetooth-speaker-illustration_334455.jpg",
+      "url": "assets/products/p3.png"
+    },
+    "product_images": [
+      {
+        "key": "free-vector/bluetooth-speaker-illustration_334455.jpg",
+        "url": "https://img.freepik.com/free-vector/bluetooth-speaker-illustration_334455.jpg"
+      },
+      {
+        "key": "free-vector/bluetooth-speaker-illustration_334455.jpg",
+        "url": "https://img.freepik.com/free-vector/bluetooth-speaker-illustration_334455.jpg"
+      }
+    ],
+    "color": "Blue",
+    "summary": "Portable Bluetooth speaker with high-quality sound, water resistance, and long-lasting battery life.",
+    "contents": "Smartphones, in particular, have transformed communication and information sharing. With powerful processors, high-quality cameras, and a myriad of apps, smartphones offer much more than just making calls. They have become our go-to devices for social media, online shopping, work, and even education. Whether it’s a flagship model from a renowned brand or a budget-friendly option, everyone has a device that suits their needs."
+  }
+]
