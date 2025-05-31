@@ -53,8 +53,18 @@ const Navbar = async () => {
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-6 font-bold uppercase text-lg text-darkGray">
+          <li className="relative group cursor-pointer">
+          <Link href={`/products`}>
+                <span className="hover:text-black">Shop</span>
+              </Link>
+          </li>
           {departments.map((dept: IDepartment) => (
             <li key={dept.id} className="relative group cursor-pointer">
+              {/* <li className="relative group cursor-pointer">
+          <Link href={`/products`}>
+                <span className="hover:text-black">Shop</span>
+              </Link>
+          </li> */}
               <Link href={`/${dept?.slug}`}>
                 <span className="hover:text-black">{dept.title}</span>
               </Link>
@@ -102,6 +112,7 @@ const Navbar = async () => {
               </div>
             </li>
           ))}
+          
         </ul>
 
         {/* Icons */}

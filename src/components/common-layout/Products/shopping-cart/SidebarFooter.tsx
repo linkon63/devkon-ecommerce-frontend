@@ -23,7 +23,7 @@ export default function SidebarFooter({ sideCartFooter }: TProps) {
           Total Quantity: <span className="text-coral">{totalQuantity}</span>
         </p>
         <p>
-          Total: <span className="text-coral">$ {totalAmount}</span>
+          Total: <span className="text-coral">BDT: {totalAmount}</span>
         </p>
       </div>
 

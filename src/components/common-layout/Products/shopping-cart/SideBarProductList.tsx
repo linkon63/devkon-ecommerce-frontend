@@ -50,7 +50,7 @@ export default function SidebarProductList({ products }: TProps) {
               </div>
               <div className="text-right">
                 <p className="text-lg font-bold text-coral mb-2">
-                  $ {product?.total_price}
+                  BDT: {product?.total_price}
                 </p>
                 <button
                   onClick={() => deleteHandler(product?.cart_id)}
