@@ -3,7 +3,7 @@ import Link from "next/link";
 import { IoSearch, IoMenu, IoClose } from "react-icons/io5";
 import { FaRegUser } from "react-icons/fa";
 import { RiShoppingBag4Line } from "react-icons/ri";
-import logo from "@/assets/Logo/image.png";
+import logo from "@/assets/Logo/barnoi.png";
 import { IDepartment } from "@/types/DepartmentsType";
 import { ICategory } from "@/types/CategoriesType";
 import { ISubCategory } from "@/types/SubCategoriesType";
@@ -35,7 +35,7 @@ const Navbar = async () => {
         <div>
           <span className="text-muted-foreground mr-1">WhatsApp:</span>
           <a
-            href="https://api.whatsapp.com/send?phone=15713837479&text=Hello%2C%20Can%20I%20have%20a%20conversation%20with%20you%20about%20some%20product%20that%20I%20want%20to%20buy%20from%20your%20site%3F"
+            href="#"
             target="_blank"
             className="text-coral hover:underline transition-colors"
             rel="noopener noreferrer"
@@ -45,7 +45,7 @@ const Navbar = async () => {
         </div>
       </div>
       {/* Navbar */}
-      <div className="flex justify-between items-center px-6 md:px-[10%] py-4 bg-white">
+      <div className="flex justify-between items-center px-6  md:px-[10%] py-8 bg-white">
         {/* Logo */}
         <Link href="/">
           <Image src={logo} alt="Logo" width={120} height={40} priority />

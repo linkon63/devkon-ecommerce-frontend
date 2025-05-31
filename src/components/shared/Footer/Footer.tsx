@@ -14,7 +14,7 @@ export default function Footer() {
             {/* Logo & About */}
             <div className="space-y-4">
               <h2 className="font-serif font-bold text-2xl text-coral">
-                Pristina Couture
+                Barnoi
               </h2>
               <p className="text-muted-foreground">
                 Exquisite fashion solutions crafted with attention to detail and
@@ -106,7 +106,7 @@ export default function Footer() {
                       href="mailto:rahuldas.ju48@gmail.com"
                       className="text-coral hover:underline transition-colors"
                     >
-                      pristinecouture358@gmail.com
+                      barnoi@gmail.com
                     </a>
                   </div>
                 </li>
@@ -147,7 +147,7 @@ export default function Footer() {
           {/* Copyright Section */}
           <div className="text-center text-sm text-muted-foreground py-4  border-t border-coral">
             <p>
-              COPYRIGHT © {`${year}`} Pristina Couture, ALL RIGHTS RESERVED.
+              COPYRIGHT © {`${year}`} Barnoi, ALL RIGHTS RESERVED.
               DESIGNED & DEVELOPED BY @LINKON git@linkon63
             </p>
           </div>

@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pristine Couture",
-  description:  "Pristine Couture - Where fashion and jewelry blend seamlessly. Explore our collection of designer outfits, premium accessories, and stunning jewelry pieces. Elevate your elegance now!",
+  title: "Barnoi",
+  description:  "Barnoi - Where fashion and jewelry blend seamlessly. Explore our collection of designer outfits, premium accessories, and stunning jewelry pieces. Elevate your elegance now!",
 };
 
 export default function RootLayout({
