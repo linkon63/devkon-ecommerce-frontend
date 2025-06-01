@@ -61,11 +61,11 @@ export default function ProductCarouselCard({ products }: any) {
                     </h2>
                     <div>
                       <span className="text-xl font-bold text-coral">
-                        ${discountedPrice.toFixed(2)}
+                        BDT:{discountedPrice.toFixed(2)}
                       </span>
                       {product.discount_rate > 0 && (
                         <span className="text-xl font-medium line-through mx-4">
-                          ${product.original_price}
+                          BDT:{product.original_price}
                         </span>
                       )}
                     </div>
