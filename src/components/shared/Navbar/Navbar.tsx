@@ -3,7 +3,7 @@ import Link from "next/link";
 import { IoSearch, IoMenu, IoClose } from "react-icons/io5";
 import { FaRegUser } from "react-icons/fa";
 import { RiShoppingBag4Line } from "react-icons/ri";
-import logo from "@/assets/Logo/barnoi.png";
+import logo from "@/assets/Logo/stlogo.png";
 import { IDepartment } from "@/types/DepartmentsType";
 import { ICategory } from "@/types/CategoriesType";
 import { ISubCategory } from "@/types/SubCategoriesType";

@@ -125,7 +125,7 @@ const MyCartProductTable = ({ products }: TProps) => {
                 </td>
 
                 <td className="px-4 py-2">
-                  <span className="text-darkGray">&#x09F3; {item?.size}</span>
+                  <span className="text-darkGray">{item?.size}</span>
                 </td>
 
                 <td className="px-4 py-2">

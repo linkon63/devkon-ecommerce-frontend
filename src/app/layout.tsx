@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Barnoi",
-  description:  "Barnoi - Where fashion and jewelry blend seamlessly. Explore our collection of designer outfits, premium accessories, and stunning jewelry pieces. Elevate your elegance now!",
+  title: "Softzino Technologies",
+  description:  "Softzino Techonologies - Where fashion and jewelry blend seamlessly. Explore our collection of designer outfits, premium accessories, and stunning jewelry pieces. Elevate your elegance now!",
 };
 
 export default function RootLayout({

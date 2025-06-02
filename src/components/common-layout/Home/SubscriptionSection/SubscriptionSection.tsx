@@ -11,7 +11,7 @@ export default function SubscriptionSection() {
         <div className="relative h-[400px] w-full">
           <Image
             src="https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-            alt="Barnoi store interior"
+            alt="Softzino Techonologies store interior"
             fill
             className="object-cover rounded-md"
           />
@@ -31,7 +31,7 @@ export default function SubscriptionSection() {
         <div className="space-y-6">
           <div className="space-y-2">
             <h2 className="text-3xl font-light tracking-tight">
-              <span className="text-coral font-medium">Barnoi</span>
+              <span className="text-coral font-medium">Softzino Techonologies</span>
             </h2>
             <div className="h-[2px] w-16 bg-coral/80"></div>
           </div>

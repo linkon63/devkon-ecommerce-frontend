@@ -118,7 +118,7 @@ export default function OrderInvoice({ orderId }: TParams) {
                     color: "#1f2937",
                   }}
                 >
-                  Barnoi
+                  Softzino Techonologies
                 </h1>
               </div>
               <div style={{ textAlign: "right" }}>
@@ -146,7 +146,7 @@ export default function OrderInvoice({ orderId }: TParams) {
               }}
             >
               <div>
-                <p style={{ fontWeight: "500" }}>Barnoi, Inc.</p>
+                <p style={{ fontWeight: "500" }}>Softzino Techonologies, Inc.</p>
                 <p style={{ color: "#4b5563" }}>123 Fashion Avenue</p>
                 <p style={{ color: "#4b5563" }}>New York, NY 10001</p>
                 <p style={{ color: "#4b5563" }}>United States</p>
@@ -154,11 +154,11 @@ export default function OrderInvoice({ orderId }: TParams) {
               <div style={{ textAlign: "right" }}>
                 <p>
                   <span style={{ color: "#6b7280" }}>Web:</span>{" "}
-                  barnoi.com
+                  softzino.com
                 </p>
                 <p>
                   <span style={{ color: "#6b7280" }}>Email:</span>{" "}
-                  contact@barnoi.com
+                  contact@softzino.com
                 </p>
                 <p>
                   <span style={{ color: "#6b7280" }}>Phone:</span> +1 (555)
@@ -501,7 +501,7 @@ export default function OrderInvoice({ orderId }: TParams) {
               borderTop: "1px solid #e5e7eb",
             }}
           >
-            <p>Thank you for shopping with Barnoi.</p>
+            <p>Thank you for shopping with Softzino Techonologies.</p>
           </div>
         </div>
         <div

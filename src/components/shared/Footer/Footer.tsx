@@ -14,7 +14,7 @@ export default function Footer() {
             {/* Logo & About */}
             <div className="space-y-4">
               <h2 className="font-serif font-bold text-2xl text-coral">
-                Barnoi
+                Softzino Techonologies
               </h2>
               <p className="text-muted-foreground">
                 Exquisite fashion solutions crafted with attention to detail and
@@ -59,7 +59,7 @@ export default function Footer() {
                   "FAQs",
                   "Return & Exchange",
                 ].map((item, i) => (
-                  <li key={i}>
+                  <li key={i}  title="We are cooking">
                     <a
                       href="#"
                       className="text-muted-foreground hover:text-foreground hover:translate-x-1 transition-all duration-200 inline-block"
@@ -82,7 +82,7 @@ export default function Footer() {
                   "FAQs",
                   "Return & Exchange",
                 ].map((item, i) => (
-                  <li key={i}>
+                  <li key={i}  title="We are cooking">
                     <a
                       href="#"
                       className="text-muted-foreground hover:text-foreground hover:translate-x-1 transition-all duration-200 inline-block"
@@ -106,7 +106,7 @@ export default function Footer() {
                       href="mailto:rahuldas.ju48@gmail.com"
                       className="text-coral hover:underline transition-colors"
                     >
-                      barnoi@gmail.com
+                      softzino@gmail.com
                     </a>
                   </div>
                 </li>
@@ -118,7 +118,7 @@ export default function Footer() {
                       href="tel:+15713837479"
                       className="text-coral hover:underline transition-colors"
                     >
-                      +1 (571) 383-7479
+                      01723396330
                     </a>
                   </div>
                 </li>
@@ -128,14 +128,9 @@ export default function Footer() {
                     <span className="text-muted-foreground mr-1">
                       WhatsApp:
                     </span>
-                    <a
-                      href="https://api.whatsapp.com/send?phone=15713837479&text=Hello%2C%20Can%20I%20have%20a%20conversation%20with%20you%20about%20some%20product%20that%20I%20want%20to%20buy%20from%20your%20site%3F"
-                      target="_blank"
-                      className="text-coral hover:underline transition-colors"
-                      rel="noopener noreferrer"
-                    >
-                      +1 (571) 383-7479
-                    </a>
+                    
+                      01712508063
+                    
                   </div>
                 </li>
               </ul>
@@ -147,7 +142,7 @@ export default function Footer() {
           {/* Copyright Section */}
           <div className="text-center text-sm text-muted-foreground py-4  border-t border-coral">
             <p>
-              COPYRIGHT © {`${year}`} Barnoi, ALL RIGHTS RESERVED.
+              COPYRIGHT © {`${year}`} ALL RIGHTS RESERVED.
               DESIGNED & DEVELOPED BY @LINKON git@linkon63
             </p>
           </div>
